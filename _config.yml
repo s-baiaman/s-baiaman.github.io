@@ -12,7 +12,7 @@ title: Baiaman
 tagline: Computer Science Student
 
 description: >-
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  Cybersecurity, programming, ctf write-ups, and real-world projects.
 
 url: "https://s-baiaman.github.io"
 
@@ -31,8 +31,9 @@ webmaster_verifications:
 
 # Web Analytics Settings
 analytics:
-  id: 7a48ab95-be00-428c-bc6e-be6ee071fe67
-  domain: cloud.umami.is
+  umami:
+    id: 7a48ab95-be00-428c-bc6e-be6ee071fe67
+    domain: cloud.umami.is
 
 # Page views settings
 pageviews:
