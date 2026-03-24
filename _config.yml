@@ -33,7 +33,7 @@ webmaster_verifications:
 analytics:
   umami:
     id: 7a48ab95-be00-428c-bc6e-be6ee071fe67
-    domain: cloud.umami.is
+    domain: https://cloud.umami.is
 
 # Page views settings
 pageviews:
